@@ -76,6 +76,15 @@ body {
   color: #333;
 }
 
+#profile-image {
+  position: relative;
+  width: 160px;
+  min-height: 400px;
+  margin: 100px auto;
+  color: #333;
+  border:15px solid white;
+}
+
 a {
   color: #d5000d;
 }
