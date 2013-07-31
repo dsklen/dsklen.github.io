@@ -78,7 +78,6 @@ body {
 
 #profile-image {
   position: relative;
-  width: 160px;
   min-height: 400px;
   margin: 100px auto;
   color: #333;
@@ -116,7 +115,7 @@ header h2 {
 #container {
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
   min-height: 595px;
-  opacity:0.8;
+  opacity:0.9;
 }
 
 .inner {
@@ -271,7 +270,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 h1 {
-  font-size: 32px;
+  font-size: 48px;
 } 
 
 h2 {
